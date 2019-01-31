@@ -7,8 +7,6 @@
 
 	This plugin help to get countries, states list and cities list.
 
-	Attached Json api file(countries_states_cities_list.json) in api Folder. 
-
 #Requirements
 
 	PHP Laravel 5.4 Version
